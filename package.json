@@ -1,0 +1,11 @@
+{
+  "name": "nodeapi",
+  "version": "0.0.1",
+  "description": "Simple Node API using Mongoose (CRUD)",
+  "author": "Jack Frost",
+  "homepage": "https://github.com/kodeandplay/nodeapi.git",
+  "dependencies": {
+    "express": "^4.13.0",
+    "mongoose": "^4.0.6"
+  }
+}
